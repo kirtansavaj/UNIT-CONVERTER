@@ -25,6 +25,3 @@ The application allows users to convert values across **Area, Distance/Height, a
 - **HTML** – Structure
 - **CSS** – Styling
 - **JavaScript** – Conversion logic
-
-## 📁 Project Structure
-
