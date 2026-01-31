@@ -3,8 +3,8 @@ A lightweight unit converter for area, distance, height, and weight built with H
 
 # 🔄 Unit Converter Web App
 
-This repository contains a **Unit Converter Web Application** built using **HTML, CSS, and JavaScript**.  
-The application allows users to convert values across **Area, Distance/Height, and Weight** units through a simple and user-friendly interface.
+This repository contains a Unit Converter Web Application built using HTML, CSS, and JavaScript.  
+The application allows users to convert values across Area, Distance/Height, and Weight units through a simple and user-friendly interface.
 
 ## 🎯 Project Purpose
 - Practice core frontend development skills
@@ -22,6 +22,6 @@ The application allows users to convert values across **Area, Distance/Height, a
 - No external libraries or dependencies
 
 ## 🛠️ Tech Stack
-- **HTML** – Structure
-- **CSS** – Styling
-- **JavaScript** – Conversion logic
+- HTML – Structure
+- CSS – Styling
+- JavaScript – Conversion logic
