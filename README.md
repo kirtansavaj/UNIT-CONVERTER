@@ -11,7 +11,7 @@ The application allows users to convert values across Area, Distance/Height, and
 - Build a real-world utility-based web application
 - Improve JavaScript logic and DOM manipulation
 - Maintain consistent daily GitHub activity
-!!
+
 ## ✨ Features
 - 📏 Distance & Height conversion
 - ⚖️ Weight conversion
